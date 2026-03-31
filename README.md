@@ -8,12 +8,23 @@ I enjoy approaching problems with **system-level thinking**, crafting interfaces
 
 ## Skills
 
-**Languages & Programming:** C, C++, Java, Python, JavaScript  
-**Web & Mobile:** React.js, Node.js, React Native, Android Studio  
-**Databases & Backend:** PostgreSQL, MongoDB, Firebase, Supabase  
-**Art, Design & UX:** UI/UX, Figma, Adobe Photoshop & Illustrator
-**3D modeling:** Blender
-**Tools & Practices:** Git, Linux, CI/CD basics  
+**Languages & Programming**  
+C, C++, Java, Python, JavaScript  
+
+**Web & Mobile Development**  
+React.js, Node.js, React Native, Android Studio  
+
+**Databases & Backend**  
+PostgreSQL, MongoDB, Firebase, Supabase  
+
+**Design & UX**  
+UI/UX, Figma, Adobe Photoshop, Adobe Illustrator  
+
+**3D Modeling & Visualization**  
+Blender  
+
+**Tools & Practices**  
+Git, Linux, CI/CD basics 
 
 ---
 
