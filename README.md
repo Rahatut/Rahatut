@@ -1,6 +1,6 @@
 # About Me:
 
-I am a **Computer Science and Engineering student at IUT**, focused on building **practical, well-designed software solutions**. My work spans **full-stack development, system-level programming, and HCI/UI-UX**, with a growing interest in **AI, machine learning, and data-driven technologies**.
+I am a **Computer Science and Engineering student at IUT**, focused on building **practical, well-designed software solutions**. My work spans **full-stack development, and system-level programming with a growing interest in **AI, machine learning, and data-driven technologies**.
 
 I enjoy approaching problems with **system-level thinking**, crafting interfaces that are **intuitive and user-friendly**, and continuously expanding my technical and analytical skills.
 
