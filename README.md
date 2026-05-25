@@ -1,8 +1,6 @@
 # About Me:
 
-CSE undergraduate at the Islamic University of Technology focused on machine learning engineering, backend systems, and AI-integrated applications.
-
-My work combines ML pipelines, backend architecture, and research-driven engineering — from training and evaluating models to building scalable APIs and inference systems around them. I actively read and implement research papers, with particular interest in AI systems, reasoning, and production ML infrastructure.
+CSE undergraduate at the Islamic University of Technology focused on backend systems and architecture with interest in ML/AI powered applications.
 
 
 # 💻 Tech Stack:
