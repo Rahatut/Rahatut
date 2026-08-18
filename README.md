@@ -1,10 +1,10 @@
 # 🎨 About Me
 
-CSE undergraduate at Islamic University of Technology bridging the gap between **UI/UX Design** and **Frontend Engineering**[cite: 2]. Passionate about craft, design systems, interactive prototyping, and building intuitive digital products with clean user flows[cite: 2].
+CSE undergraduate at Islamic University of Technology bridging the gap between **UI/UX Design** and **Frontend Engineering**. Passionate about craft, design systems, interactive prototyping, and building intuitive digital products with clean user flows.
 
-- 🎯 **Focus Areas:** UI/UX Design, Interactive Prototyping, Design Systems & Frontend Implementation[cite: 2]
-- 💡 **Specialty:** Designing user-centered digital interfaces with technical feasibility in mind[cite: 2]
-- 🛠️ **Current Stack:** Figma, React, Next.js, and Adobe Creative Suite[cite: 2]
+- 🎯 **Focus Areas:** UI/UX Design, Interactive Prototyping, Design Systems & Frontend Implementation
+- 💡 **Specialty:** Designing user-centered digital interfaces with technical feasibility in mind
+- 🛠️ **Current Stack:** Figma, React, Next.js, and Adobe Creative Suite
 
 ---
 
